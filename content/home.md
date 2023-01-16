@@ -1,6 +1,6 @@
 ---
 title: Web Standards
-date: 2023-01-16T10:29:02.106Z
+date: 2023-01-16T11:46:26.233Z
 cats:
   - description: Maru is a Scottish Fold from Japan, and he loves boxes.
     name: Maru (まる)
